@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "ethereum-waffle": "^4.0.0-alpha.0"
+  }
+}
